@@ -1,0 +1,10 @@
+
+> life-mission-control@0.1.0 start
+> next start -p 8080
+
+▲ Next.js 16.1.6
+- Local:         http://localhost:8080
+- Network:       http://72.62.130.120:8080
+
+✓ Starting...
+✓ Ready in 1178ms
