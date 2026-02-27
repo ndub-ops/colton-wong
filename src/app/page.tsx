@@ -261,7 +261,7 @@ export default function ColtonPage() {
           <h2 className="mb-6 text-center text-2xl font-bold text-amber-900">🐕 Pets</h2>
           <div className="flex flex-wrap justify-center gap-8">
             <div className="text-center">
-              <span className="text-5xl">🐑</span>
+              <span className="text-5xl">🐻‍❄️</span>
               <p className="mt-2 font-bold text-amber-800">Migo</p>
               <p className="text-sm text-amber-600">Great Pyrenees (big white fluffy)</p>
             </div>
@@ -292,7 +292,7 @@ export default function ColtonPage() {
             </div>
             <div className="text-center rounded-xl bg-yellow-200 p-4">
               <span className="text-4xl">🐔</span>
-              <p className="mt-2 font-bold text-yellow-800">Cici</p>
+              <p className="mt-2 font-bold text-yellow-800">Cc</p>
             </div>
             <div className="text-center rounded-xl bg-yellow-200 p-4">
               <span className="text-4xl">🐔</span>
@@ -301,7 +301,7 @@ export default function ColtonPage() {
           </div>
           <div className="mt-6 rounded-xl bg-gray-200 p-4 text-center">
             <p className="text-lg font-bold text-gray-700">💛 In Loving Memory</p>
-            <p className="text-gray-600">Boba 🐔 <span className="text-sm">(2020-2026, we miss you!)</span></p>
+            <p className="text-gray-600">Boba 🐔 <span className="text-sm">(2025-2026, we miss you!)</span></p>
           </div>
         </section>
 
