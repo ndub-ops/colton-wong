@@ -10,7 +10,7 @@ const facts = [
   "Future football star ⭐️",
   "Best friends with his brothers",
   "Loves riding his bike",
-  "Favorite color is blue",
+  "Favorite color is red",
 ];
 
 const hobbies = [
