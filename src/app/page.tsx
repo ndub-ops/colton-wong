@@ -246,8 +246,8 @@ export default function ColtonPage() {
               <p className="font-medium text-white">Mom (Lilian)</p>
             </div>
             <div className="text-center">
-              <span className="text-4xl">👶</span>
-              <p className="font-medium text-white">Bennett (brother)</p>
+              <span className="text-4xl">👦</span>
+              <p className="font-medium text-white">Jonah (brother)</p>
             </div>
             <div className="text-center">
               <span className="text-4xl">👶</span>
